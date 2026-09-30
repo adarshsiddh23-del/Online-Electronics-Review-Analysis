@@ -164,3 +164,25 @@ The project can be further improved by:
 ## Conclusion
 
 This project provides a Python-based system for analyzing electronics product reviews and ratings. It combines data processing, statistical analysis, rule-based sentiment classification, keyword-based review categorization, and visualization to extract useful information from customer review data.
+
+
+
+
+
+
+## Project Screenshots
+
+### Rating Distribution
+![Rating Distribution](screenshots/01_rating_distribution.png)
+
+### Sentiment Distribution
+![Sentiment Distribution](screenshots/02_sentiment_distribution.png)
+
+### Product-wise Sentiment Analysis
+![Product Sentiment Analysis](screenshots/03_product_sentiment_analysis.png)
+
+### Verified Purchase Distribution
+![Verified Purchase Distribution](screenshots/04_verified_purchase_distribution.png)
+
+### Analysis Output
+![Analysis Output](screenshots/05_analysis_output.png)
